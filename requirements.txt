@@ -2,17 +2,10 @@ numpy
 
 matplotlib
 
-IPython
 
 networkx
 
-random
-
-time
 
 mesa
 
-pandas
 
-
-cvxpy
